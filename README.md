@@ -6,9 +6,11 @@ For this club project, I helped make an audio visual system.
 
 #Project 2: Ventilator Controller
 
-#Project 3: DepthAI
+#Project 3: Volunteer App Customization using Salesforce
 
-#[Project 3: Corona Mask Detection](https://github.com/luxonis/depthai-ml-training)
+#Project 4: DepthAI
+
+#[Project 5: Corona Mask Detection](https://github.com/luxonis/depthai-ml-training)
 Run a trained model on a DepthAI module to detect whether or not someone is wearing a mask.
 
-#Project 4: RaspTank 
+#Project 6: RaspTank 
